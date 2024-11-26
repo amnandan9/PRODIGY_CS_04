@@ -24,13 +24,13 @@
   
    ## Screenshots
    
-### Keylogger Program<:
+### Keylogger Program:
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="keylog.png" alt="Strong" width="200" />
-   <img src="log_success.png" alt="if_not_strong" width="200" />
-    <img src="welcome_keylog.png" alt="check_01 Example" width="200" />
- <img src="password_check_complex.png" alt="pwd check Example" width="200" />
+    <img src="keylog.png" alt="Strong" width="300" />
+   <img src="log_success.png" alt="if_not_strong" width="300" />
+    <img src="welcome_keylog.png" alt="check_01 Example" width="300" />
+
 </div>
 
 </body>
